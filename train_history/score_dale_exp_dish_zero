@@ -1,0 +1,8 @@
+,house_1,house_2,house_5
+f1_score,0.0,0.0,0.0
+mae,15.0388363241,34.087065006,17.8815168205
+nde,1.0,1.0,1.0
+precision_score,0.0,0.0,0.0
+recall_score,0.0,0.0,0.0
+relative_error,1.0,1.0,1.0
+signal_aggregate_error,1.0,1.0,1.0
