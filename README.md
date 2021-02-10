@@ -1,5 +1,5 @@
 # ESZ-Disaggregation
-Discovergy, führender Komplettanbieter von Smart Metering-Lösungen, stattet im Rahmen des Pilotprogramms „Einsparzähler“ Kunden mit intelligenten Stromzählern (Smart Metern) aus. Damit wird der Energieverbrauch der Kunden sekundengenau, für jede einzelne Phase und in Echtzeit erfasst, analysiert und visualisiert. Über das Discovergy Web-Portal und die App haben die Einsparzähler-Kunden ihren Energieverbrauch somit jederzeit im Blick. Sie können einzelne Verbraucher erkennen, sich mit anderen Nutzern vergleichen und erhalten personalisierte Energiespartipps. Ermöglicht wird dies insbesondere durch die Zuordnung von Verbrauchskurven auf einzelne Geräte(-gruppen), die sogenannte automatische Geräteerkennung mittels NILM (non-intrusive load monitoring).
+Discovergy, führender Komplettanbieter von Smart Metering-Lösungen, stattet im Rahmen des Pilotprogramms „Einsparzähler“ Kunden mit intelligenten Stromzählern (Smart Metern) aus. Damit wird der Energieverbrauch der Kunden sekundengenau, für jede einzelne Phase und in Echtzeit erfasst, analysiert und visualisiert. Über das Discovergy Web-Portal und die App haben die Einsparzähler-Kunden ihren Energieverbrauch somit jederzeit im Blick. Sie können einzelne Verbraucher erkennen, sich mit anderen Nutzern vergleichen und erhalten personalisierte Energiespartipps. Ermöglicht wird dies insbesondere durch die Zuordnung von Verbrauchskurven auf einzelne Geräte(-gruppen), die sogenannte automatische Geräteerkennung mittels NILM (non-intrusive load monitoring), KI und Big Data Technologie.
  
 Ziel ist es, den Pilotkunden bei der Einsparung von möglichst viel Strom zu helfen und Einsparpotentiale durch Verbrauchsinformationen und Handlungsempfehlungen zu erschließen.
 
@@ -8,6 +8,15 @@ Die NILM-Algorithmen werden hier als Open Source Code veröffentlicht. Die Funkt
 Das Projekt wird vom Bundesamt für Wirtschaft und Ausfuhrkontrolle im Auftrag des Bundesministeriums für Wirtschaft und Energie gefördert.
 
 Weitere Informationen: www.einsparzaehler.de
+
+
+Discovergy, the leading full-stack provider of smart metering solutions, supports customers with intelligent electricity meters (smart meters) as part of the “Einsparzähler” pilot project. This means that the customers' energy consumption is recorded, analyzed and visualized for each individual phase (up to 6 phases in bi-directional meters) in real time. Via the Discovergy web portal and the app, savings meter customers can keep an eye on their energy consumption at all times. They can recognize individual consumers, compare themselves with other users and receive personalized tips on how to save energy. This is made possible in particular by the assignment of consumption curves to individual devices (groups), the so-called automatic device detection and disaggregation using NILM (non-intrusive load monitoring), AI algorithms and Big Data Technologies.
+
+The aim is to help pilot customers save as much electricity as possible and to tap potential savings through consumption information and recommendations for action.
+
+The NILM algorithms are published here as open source code. The functional description is contained in the source code.
+
+The project is funded by the Federal Office for Economic Affairs and Export Control on behalf of the Federal Ministry for Economic Affairs and Energy Germany.
 
 
 ### Project structure
