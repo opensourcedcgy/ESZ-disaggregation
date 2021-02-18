@@ -1,4 +1,4 @@
-# ESZ-Disaggregation
+# Discovergy ESZ-Disaggregation (NILM)
 Discovergy, führender Komplettanbieter von Smart Metering-Lösungen, stattet im Rahmen des Pilotprogramms „Einsparzähler“ Kunden mit intelligenten Stromzählern (Smart Metern) aus. Damit wird der Energieverbrauch der Kunden sekundengenau, für jede einzelne Phase und in Echtzeit erfasst, analysiert und visualisiert. Über das Discovergy Web-Portal und die App haben die Einsparzähler-Kunden ihren Energieverbrauch somit jederzeit im Blick. Sie können einzelne Verbraucher erkennen, sich mit anderen Nutzern vergleichen und erhalten personalisierte Energiespartipps. Ermöglicht wird dies insbesondere durch die Zuordnung von Verbrauchskurven auf einzelne Geräte(-gruppen), die sogenannte automatische Geräteerkennung mittels NILM (non-intrusive load monitoring), KI und Big Data Technologie.
  
 Ziel ist es, den Pilotkunden bei der Einsparung von möglichst viel Strom zu helfen und Einsparpotentiale durch Verbrauchsinformationen und Handlungsempfehlungen zu erschließen.
