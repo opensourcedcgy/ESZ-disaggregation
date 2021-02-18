@@ -10,13 +10,13 @@ Das Projekt wird vom Bundesamt für Wirtschaft und Ausfuhrkontrolle im Auftrag d
 Weitere Informationen: www.einsparzaehler.de
 
 ##### English Version
-Discovergy, the leading full-stack provider of smart metering solutions, supports customers with intelligent electricity meters (smart meters) as part of the “Einsparzähler” pilot project. This means that the customers' energy consumption is recorded, analyzed and visualized for each individual phase (up to 6 phases in bi-directional meters) in real time. Via the Discovergy web portal and the app, savings meter customers can keep an eye on their energy consumption at all times. They can recognize individual consumers, compare themselves with other users and receive personalized tips on how to save energy. This is made possible in particular by the assignment of consumption curves to individual devices (groups), the so-called automatic device detection and disaggregation using NILM (non-intrusive load monitoring), AI algorithms and Big Data Technologies.
+Discovergy, the leading full-stack provider of smart metering solutions, supports customers with intelligent electricity meters (smart meters) as part of the “Einsparzähler” pilot project. This means that the customers' energy consumption is recorded, analyzed and visualized for each individual phase (up to 6 phases in bi-directional meters) in real time. Via the Discovergy web portal and the app, customers can keep an eye on their energy consumption at all times. They can recognize individual consumers, compare themselves with other users and receive personalized tips on how to save energy. This is made possible in particular by the assignment of consumption curves to individual devices (groups), the so-called automatic device detection and disaggregation using NILM (non-intrusive load monitoring), AI algorithms and Big Data Technologies.
 
 The aim is to help pilot customers save as much electricity as possible and to tap potential savings through consumption information and recommendations for action.
 
 The NILM algorithms are published here as open source code. The functional description is contained in the source code.
 
-The project is funded by the Federal Office for Economic Affairs and Export Control on behalf of the Federal Ministry for Economic Affairs and Energy Germany.
+The project is funded by the Bundesamt für Wirtschaft und Ausfuhrkontrolle im Auftrag des Bundesministeriums für Wirtschaft und Energie in Germany.
 
 Further Informations: www.einsparzaehler.de
 
